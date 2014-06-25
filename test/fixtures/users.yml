@@ -1,11 +1,8 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  Patron: MyString
-  Anonymous: MyString
-  Admin: MyString
+  email: email@nowhere
 
 two:
-  Patron: MyString
-  Anonymous: MyString
-  Admin: MyString
+  email: email@nowhere
+

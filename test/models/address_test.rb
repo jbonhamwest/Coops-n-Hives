@@ -7,6 +7,6 @@ class AddressTest < ActiveSupport::TestCase
     assert_equal("1111 Dogwood Lane", address.street)
     assert_equal("Alachua", address.city)
     assert_equal("Florida", address.state)
-    assert_equal("36574", address.zip_code)
+    assert_equal(36574, address.zip_code)
   end
 end
